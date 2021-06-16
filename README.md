@@ -1,3 +1,3 @@
 # kakao clone coding
 
-CSS much better!
+html & css are so much fun!
